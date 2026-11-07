@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+    --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+    --color-cyber-bg: #10103d;
+    --color-cyber-purple: #7c3aed;
+    --color-cyber-success: #10b981;
+    --color-cyber-error: #ef4444;
+    --color-cyber-neon: #a855f7;
+}
